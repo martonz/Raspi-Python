@@ -1,8 +1,7 @@
-#include Arduini.h
-
-INCLUDE <Wire.h>
-INCLUDE <ESP8266Wifi.h>
-INCLUDE <bme680.h>
+#include <Arduino.h>
+#include <Wire.h>
+#include <ESP8266Wifi.h>
+#include <bme680.h>
 
 void setup() {
 
